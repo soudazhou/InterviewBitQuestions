@@ -18,11 +18,8 @@ Java, Spring, Oracle SQL, Junit, Cucumber, Selenium, Maven, TeamCity, Git, Subve
 ##### Senior Java Developer, WIRE API, Research IT, 04/2017 - present
 
 * Conducted analysis to consolidate business requirement into specific technical tasks
-
 * Led development effort for WIRE API integration with the Next Generation Authoring Platform, managed a team of 3 people for effective delivery
-
 * Implemented batch loading logic for the Research data cache, reduced full cache reload time by approximately 20%
-
 * Improved development practices of the team via establishing coding style checks and adjusted agile process.
 
 
