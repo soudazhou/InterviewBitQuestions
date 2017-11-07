@@ -7,7 +7,7 @@ Java, Spring, Oracle SQL, Junit, Cucumber, Selenium, Maven, TeamCity, Git, Subve
 #### Education
 
 * BSc Computer Science (2:1), University of Bristol, 2013 
-* NCUK International Foundation Year: Mathematics (A*), Further Mathematics (A*), Physics (A), English for Academic Purpose (B), Wuhan China Britain Education Centre, 2010 
+* NCUK International Foundation Year: Mathematics (A\*), Further Mathematics (A\*), Physics (A), English for Academic Purpose (B), Wuhan China Britain Education Centre, 2010 
 
 #### Experience
 
