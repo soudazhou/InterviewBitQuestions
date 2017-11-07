@@ -31,13 +31,10 @@ Java, Spring, Oracle SQL, Junit, Cucumber, Selenium, Maven, TeamCity, Git, Subve
 * 	Led the development of the LIBOR testing jobs using the Quartz Job Scheduling Library, coordinated the tasks between London and Guangzhou team to enable quick troubleshooting in production environment 
 * 	Implemented the end-to-end Cucumber feature test pack with data provided by the finance regulator to prove the calculation logic works as expected, which is highly noted by the team and the business user as an important project milestone 
 * 	Hosted the UAT daily parallel run chat group, handled requests/enquiries directly from the front office users with tight deadlines, received excellent feedback 
-* 	Fully adopted and enhanced the team’s Scrum practices, contributed to the Git best practices/guidelines for the team's recent migration from SVN to Github Enterprise, configured TeamCity to work seamlessly with the Github repository 
+* 	Fully adopted and enhanced the team’s Scrum practices, contributed to the Git best practices/guidelines for the team's recent migration from SVN to Github Enterprise, configured TeamCity&Github intergration
 * 	Managed the whole release process independently, prepared WAR/DB package and coordinated WAS and DBA resources for deployment
 * 	Engaged front office users in discussion of the requirement and clarified misunderstandings in conflict view 
-
-###### eBench UI Test Suite
-
-* 	Extended the existing UI test coverage using Cucumber, wrote core wrapper class for the Selenium API which is used in Cucumber steps to simulate user behaviour in the browser. The test suite covered major workflows of the system which greatly reduced the time spent on manual testing prior to each release. 
+* 	Extended the existing UI test coverage using Cucumber, wrote core wrapper class for the Selenium API which is used in Cucumber steps to simulate user behaviour in the browser, reduced the time spent on manual testing pre-release. 
 
 ##### Java Developer, Strategic Product Accounting and Regulatory Control, Finance IT, 03/2015 - 09/2015
 
